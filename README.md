@@ -3,6 +3,8 @@
 
 shell scripting topics.
 text
-1. priniting
+1. printing
 2. comments
-3. 
+3. Variables
+4. Constants
+5. 
