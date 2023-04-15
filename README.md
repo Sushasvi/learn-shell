@@ -7,4 +7,5 @@ text
 2. comments
 3. Variables
 4. Constants
-5. 
+5. Conditions
+6. 
